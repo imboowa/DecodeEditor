@@ -1,11 +1,12 @@
 # Decode Editor
-This is the same project but with a Graphical User Interface for a **Decode** user (you) to write Decode code.
+This is the same project as **Decode** but with a Graphical User Interface for a **Decode** user (you) to write Decode code.
 
 
 # About
 1. Saves user's (your) settings in `settings.txt`
 2. Lists folder contents.
 3. Let's user (you) to debug through Decode code.
+4. Let's user (you) to run Decode code.
 
 `Note: This project was 35% AI and 65% me.`
 
